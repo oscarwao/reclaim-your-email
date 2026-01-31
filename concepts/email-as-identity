@@ -1,0 +1,49 @@
+# Email as Identity
+
+For most people, email is not just a way to send messages.
+
+It is the **master key** to your digital life.
+
+## What email actually controls
+
+Your email address is commonly used for:
+- Account creation
+- Password resets
+- Security alerts
+- Billing and receipts
+- Legal and financial records
+- Identity verification
+
+If someone controls your email, they can often:
+- Reset passwords to other services
+- Lock you out of accounts
+- Access sensitive personal or financial data
+
+This is why email should be treated as **infrastructure**, not convenience.
+
+## The hidden risk of “free” email
+
+Free email services are designed to scale, not to protect your identity.
+Even if the content of your email is private, metadata often is not.
+
+Metadata includes:
+- Who you communicate with
+- How often
+- From where
+- At what times
+
+Over time, this creates a detailed behavioral profile.
+
+## Reframing email
+
+Instead of thinking:
+> “This is my inbox”
+
+Think:
+> “This is my identity control plane”
+
+Once you adopt this mindset, decisions about providers, aliases, rules,
+and migration become much clearer.
+
+You don’t need to be technical.
+You just need to be intentional.
