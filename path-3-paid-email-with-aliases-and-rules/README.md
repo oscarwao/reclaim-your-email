@@ -17,7 +17,7 @@ It is the most transferable model for organizations and leaders.
   They are about control.
   
   Examples:
-  - Bills → Bills folder\
+  - Bills → Bills folder
   - Subscriptions → Subscriptions folder
   - Marketing → auto-delete
   - Account alerts → Accounts folder
@@ -47,16 +47,5 @@ It is the most transferable model for organizations and leaders.
   - Most people
   - Leaders modeling good digital hygiene
   - Anyone planning deeper sovereignty later
-
-## Concepts (plain-language explainers)
-  You’ll want these short files to prevent confusion:
-  - email-as-identity.md
-    - Why email is the master key to your digital life
-  - aliases-explained.md
-    - Aliases are not “extra inboxes”—they’re identity firewalls
-  - rules-not-folders.md
-    - Why automation beats manual sorting
-  - password-managers-as-inventories.md
-    - Your password manager is a map of your digital dependencies
    
 
