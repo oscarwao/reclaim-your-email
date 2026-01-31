@@ -6,6 +6,7 @@ and often the master key to your digital life.
 
 This repository provides **three practical paths** to reduce
 dependence on Gmail/Other and reclaim control of your email and data.
+A simple decision matrix is at the bottom to help you decide which path makes sense to me.
 
 You do not need to be technical.
 You do not need to self-host a server.
