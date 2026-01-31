@@ -5,7 +5,7 @@ It is an identity system, a billing system, a recovery mechanism,
 and often the master key to your digital life.
 
 This repository provides **three practical paths** to reduce
-dependence on Gmail and reclaim control of your email and data.
+dependence on Gmail/Other and reclaim control of your email and data.
 
 You do not need to be technical.
 You do not need to self-host a server.
